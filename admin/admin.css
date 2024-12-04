@@ -1,0 +1,28 @@
+.login_para_title{
+    text-align:center;
+    margin:10px;
+    font-size:50px;
+    color:darkslateblue;
+}
+
+.Container_element{
+    border-style:ridge;
+    background-image: url("crsimg4.jpg");
+    background-size: cover;
+    margin:10px;
+    border-radius: 4px;
+    border-width:4px;
+    border-color:black;
+    
+}
+
+.Login_image{
+    margin:20px;
+    border-radius:30% ;
+    height:40%;
+    width:40%;
+}
+.entire_page{
+    background-color: aliceblue;
+    height:100px;
+}
